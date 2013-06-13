@@ -50,17 +50,17 @@ So, I'm bringing two worlds I respect together here. The analytical world on the
 
 + Rooftop dance parties in Brooklyn. Yahahahah.
 
-+ When someone says they read something I wrote and it lit them up
++ When someone says they read something I wrote and it lit them up.
 
-+ Drinking just-off-the-boil espresso from a tiny sake cup
++ Drinking just-off-the-boil espresso from a tiny sake cup.
 
 + Tiny gardens, hidden in nooks in huge cities. Like leaves growing in cracks in the pavement.
 
-+ Talking with dead people. I was grateful to write Terminal last month. Grateful the faeries were willing to act as medium
++ Talking with dead people. I was grateful to write Terminal last month. Grateful the faeries were willing to act as medium.
 
-+ Nina Simone's voice
++ Nina Simone's voice.
 
-+ Hot, slow, long baths
++ Hot, slow, long baths.
 
 Compersion. I'll keep adding to the polylog as it occurs to me to do so. For now, I gotta go do lesson four of Learn Python the Hard Way. Because that's what Gittip is built on, Python. And I derive pleasure from contributing to the open source world.
 
